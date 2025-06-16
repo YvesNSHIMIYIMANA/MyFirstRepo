@@ -1,3 +1,4 @@
+Brief Introduction About Myself
 My name is Yves Nshimiyimana, a passionate learner from Rwanda. I am deeply interested in technology, leadership, and community development. My goal is to use data analytics and entrepreneurship to solve real-world problems in education and agriculture.
 
 I recently started my journey with GitHub to manage my projects and collaborate with others. I'm excited to learn how to use version control and build amazing things!
